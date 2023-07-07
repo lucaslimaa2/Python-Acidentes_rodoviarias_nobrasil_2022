@@ -15,7 +15,7 @@ Em qual mês do ano ocorreu o maior número de acidentes?\
 Qual dia e horário da semana ocorrem a maior parte dos acidentes?\
 Quais causas geraram maior número de acidentes?\
 Sob quais condições climáticas ocorrem a maioria dos acidentes?\
-Sob quais tipos de pista ocorrem a maioria dos acidentes?\
+Sob quais tipos de pista ocorrem a maioria dos acidentes?
 
 **- Quanto aos acidentes com óbitos:**
 Qual a porcentagem de mortos com relação ao número de pessoas acidentadas?\
