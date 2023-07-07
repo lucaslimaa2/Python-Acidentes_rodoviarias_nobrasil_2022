@@ -4,6 +4,7 @@ Projeto com Python para análise de dados de acidentes nas rodoviárias do Brasi
 Frequentemente, a Polícia Rodoviária Federal (PRF) divulga os dados dos acidentes nas rodoviárias em um determinado período. Neste projeto, serão analisados os dados referentes a 2022 e ver o que podemos encontrar de insights e quais recomendações poderão ser feitas para endereçar os problemas encontrados.
 
 O dataset encontra-se aqui: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
+Bibliotecas utilizadas: Pandas, Matplotlib, Seaborn.
 
 Após a limpeza e manipulação dos dados, algumas análises serão feitas para responder as seguintes perguntas e criar planos de ação:
 
