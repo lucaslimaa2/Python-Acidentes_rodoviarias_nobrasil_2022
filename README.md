@@ -6,21 +6,22 @@ Frequentemente, a Polícia Rodoviária Federal (PRF) divulga os dados dos aciden
 O dataset encontra-se aqui: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
 
 Após a limpeza e manipulação dos dados, algumas análises serão feitas para responder as seguintes perguntas e criar planos de ação:
+
 **- Quanto aos acidentes:**
-Quais tipos de acidentes mais ocorreram?
-Em quais rodovias ocorreram o maior número de acidentes?
-Quais estados tiverem o maior número de acidentes?
-Em qual mês do ano ocorreu o maior número de acidentes?
-Qual dia e horário da semana ocorrem a maior parte dos acidentes?
-Quais causas geraram maior número de acidentes?
-Sob quais condições climáticas ocorrem a maioria dos acidentes?
-Sob quais tipos de pista ocorrem a maioria dos acidentes?
+Quais tipos de acidentes mais ocorreram?\
+Em quais rodovias ocorreram o maior número de acidentes?\
+Quais estados tiverem o maior número de acidentes?\
+Em qual mês do ano ocorreu o maior número de acidentes?\
+Qual dia e horário da semana ocorrem a maior parte dos acidentes?\
+Quais causas geraram maior número de acidentes?\
+Sob quais condições climáticas ocorrem a maioria dos acidentes?\
+Sob quais tipos de pista ocorrem a maioria dos acidentes?\
 
 **- Quanto aos acidentes com óbitos:**
-Qual a porcentagem de mortos com relação ao número de pessoas acidentadas?
-Quais tipos de acidentes com vítimas fatais mais ocorreram?
-Em quais rodovias ocorreram o maior número de acidentes com vítimas fatais?
-Quais estados tiveram o maior número de acidentes com vítimas fatais?
-Em qual mês do ano ocorreu o maior número de acidentes com vítimas fatais?
-Qual dia e horário da semana ocorrem a maior parte dos acidentes com vítimas fatais?
+Qual a porcentagem de mortos com relação ao número de pessoas acidentadas?\
+Quais tipos de acidentes com vítimas fatais mais ocorreram?\
+Em quais rodovias ocorreram o maior número de acidentes com vítimas fatais?\
+Quais estados tiveram o maior número de acidentes com vítimas fatais?\
+Em qual mês do ano ocorreu o maior número de acidentes com vítimas fatais?\
+Qual dia e horário da semana ocorrem a maior parte dos acidentes com vítimas fatais?\
 Quais causas geraram maior número de acidentes com vítimas fatais?
