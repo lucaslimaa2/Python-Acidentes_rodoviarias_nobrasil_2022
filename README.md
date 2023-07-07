@@ -1,4 +1,4 @@
-# Python-Acidentes_rodoviarias_nobrasil_2022
+# Python-Acidentes_rodovias_brasil_2022
 Projeto com Python para análise de dados de acidentes nas rodoviárias do Brasil em 2022. O objeto deste projeto é trazer insights quando aos números e fazer recomendações.
 
 Frequentemente, a Polícia Rodoviária Federal (PRF) divulga os dados dos acidentes nas rodoviárias em um determinado período. Neste projeto, serão analisados os dados referentes a 2022 e ver o que podemos encontrar de insights e quais recomendações poderão ser feitas para endereçar os problemas encontrados.
